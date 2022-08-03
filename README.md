@@ -1,5 +1,7 @@
 <center> <h2>Hi there 👋, I'm Sujay</h2> </center>
 <center> <h3>An developing developer from India</h3> </center>
+![snake gif](https://github.com/SD-13/SD-13/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--
 ![snake gif](https://github.com/SD-13/SD-13/blob/output/github-contribution-grid-snake.gif)
