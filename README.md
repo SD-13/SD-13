@@ -1,6 +1,8 @@
 <center> <h2>Hi there 👋, I'm Sujay</h2> </center>
 <center> <h3>An developing developer from India</h3> </center>
+<!--
 ![snake gif](https://github.com/SD-13/SD-13/blob/output/github-contribution-grid-snake.gif)
+-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SD-13" alt="SD-13" /></a> </p>
 
