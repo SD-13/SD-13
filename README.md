@@ -1,5 +1,7 @@
 <center> <h2>Hi there 👋, I'm Sujay</h2> </center>
 <center> <h3>An developing developer from India</h3> </center>
+![snake gif](https://github.com/SD-13/SD-13/github-contribution-grid-snake.gif)
+
 <!--
 ![snake gif](https://github.com/SD-13/SD-13/blob/output/github-contribution-grid-snake.gif)
 -->
@@ -20,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SD-13&show_icons=true&locale=en&layout=compact" alt="SD-13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SD-13&show_icons=true&locale=en" alt="SD-13" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SD-13&show_icons=true&locale=en" alt="SD-13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SD-13&" alt="SD-13" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SD-13&" alt="SD-13" /></p>
 
 
 <!--
