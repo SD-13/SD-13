@@ -1,4 +1,4 @@
-<h1 align="center>Hi there 👋, I'm Sujay</h1>
+### Hi there 👋, I'm Sujay
 
 <!--
 **SD-13/SD-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
