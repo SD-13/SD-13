@@ -2,10 +2,10 @@
 <center> <h3>A developing developer from India</h3> </center>
 
 
-<summary>&#9889 <b>GitHub Stats</b></summary>
+<!-- <summary>&#9889 <b>GitHub Stats</b></summary>
 <img 
    src="https://github-readme-stats.vercel.app/api?username=SD-13&show_icons=true&theme=tokyonight" 
-/>
+/> -->
 
 
 <!-- 
