@@ -30,12 +30,10 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=SD-13&theme=tokyonight)
 
-
-<!-- 
+ 
 <p align="center">
 	<img alt="Profile Views Badge" src="https://komarev.com/ghpvc/?username=SD-13&style=flat" />
 </p>
--->
 
 <!-- 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SD-13&show_icons=true&locale=en" alt="SD-13" /></p>
