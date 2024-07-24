@@ -2,11 +2,6 @@
 <center> <h3> My name is Sujay and I am from India </h3></center>
 <center> <h3>Contributing to Open Source makes me happy :)</h3> </center>
 
-<!--
-<p align="center">
-	<img alt="Profile Views Badge" src="https://komarev.com/ghpvc/?username=amaanq&style=flat" />
-</p>
-/>
 
 <!-- <summary>&#9889 <b>GitHub Stats</b></summary>
 <img 
@@ -34,6 +29,13 @@
 <summary>&#127942 <b>GitHub Awards</b></summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=SD-13&theme=tokyonight)
+
+
+<!-- 
+<p align="center">
+	<img alt="Profile Views Badge" src="https://komarev.com/ghpvc/?username=SD-13&style=flat" />
+</p>
+-->
 
 <!-- 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SD-13&show_icons=true&locale=en" alt="SD-13" /></p>
